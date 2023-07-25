@@ -10,7 +10,3 @@ if (jogador1 === jogador2) {
 } else {
     console.log("Jogada inválida. Use apenas 'pedra' ou 'tesoura'.");
 }
-
-
-    // Exemplo
-   // pedraPapelTesoura(jogador1, jogador2);
